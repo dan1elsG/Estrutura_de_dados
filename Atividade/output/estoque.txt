@@ -1,0 +1,8 @@
+Nce: 455, Produto: CAMISA_PUMA, Quantidade: 200, Categoria: Moda
+Nce: 14554, Produto: RCD38, Quantidade: 200, Categoria: Eletrodomestico
+SKU do produto: 123563, Produto: CAMISA_GOLA_Polo, Quantidade: 2, Categoria: Moda
+SKU do produto: 12451, Produto: CAMISA, Quantidade: 5, Categoria: Eletrodomestico
+SKU do produto: 125545, Produto: CAMISA_NIKE, Quantidade: 500, Categoria: Moda
+SKU do produto: 85785, Produto: liquidificador, Quantidade: 800, Categoria: Eletrodomestico
+SKU do produto: 78587, Produto: MAQUITA, Quantidade: 200, Categoria: Eletrodomestico
+SKU do produto: 1234, Produto: liquidificador, Quantidade: 3, Categoria: Eletrodomestico
